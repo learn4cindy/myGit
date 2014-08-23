@@ -1,3 +1,3 @@
 It's a test text.
 
-aaafffff
+aaafffffCCC
